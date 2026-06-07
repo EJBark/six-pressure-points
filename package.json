@@ -1,0 +1,8 @@
+{
+  "name": "six-pressure-points",
+  "version": "1.0.0",
+  "description": "Six Pressure Points organisational diagnostic tool",
+  "engines": {
+    "node": ">=18"
+  }
+}
